@@ -1,0 +1,6 @@
+C:\Users\t-enfern\Desktop\kata js\buscaminas\Solveed\bin\Solveed.dll.config
+C:\Users\t-enfern\Desktop\kata js\buscaminas\Solveed\bin\Solveed.dll
+C:\Users\t-enfern\Desktop\kata js\buscaminas\Solveed\bin\Solveed.pdb
+C:\Users\t-enfern\Desktop\kata js\buscaminas\Solveed\obj\Debug\Solveed.csprojResolveAssemblyReference.cache
+C:\Users\t-enfern\Desktop\kata js\buscaminas\Solveed\obj\Debug\Solveed.dll
+C:\Users\t-enfern\Desktop\kata js\buscaminas\Solveed\obj\Debug\Solveed.pdb

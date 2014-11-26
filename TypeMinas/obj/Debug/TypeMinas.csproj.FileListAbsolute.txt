@@ -1,0 +1,6 @@
+C:\Users\t-enfern\Desktop\kata js\buscaminas\TypeMinas\bin\TypeMinas.dll.config
+C:\Users\t-enfern\Desktop\kata js\buscaminas\TypeMinas\bin\TypeMinas.dll
+C:\Users\t-enfern\Desktop\kata js\buscaminas\TypeMinas\bin\TypeMinas.pdb
+C:\Users\t-enfern\Desktop\kata js\buscaminas\TypeMinas\obj\Debug\TypeMinas.csprojResolveAssemblyReference.cache
+C:\Users\t-enfern\Desktop\kata js\buscaminas\TypeMinas\obj\Debug\TypeMinas.dll
+C:\Users\t-enfern\Desktop\kata js\buscaminas\TypeMinas\obj\Debug\TypeMinas.pdb

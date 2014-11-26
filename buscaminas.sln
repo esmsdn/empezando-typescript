@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solveed", "Solveed\Solveed.csproj", "{1A958E63-70D1-4ED7-95DA-44CB661E0E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeMinas", "TypeMinas\TypeMinas.csproj", "{ACAB82AE-9857-4E85-B524-F3A2F6BB1532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A958E63-70D1-4ED7-95DA-44CB661E0E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A958E63-70D1-4ED7-95DA-44CB661E0E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A958E63-70D1-4ED7-95DA-44CB661E0E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A958E63-70D1-4ED7-95DA-44CB661E0E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACAB82AE-9857-4E85-B524-F3A2F6BB1532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAB82AE-9857-4E85-B524-F3A2F6BB1532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAB82AE-9857-4E85-B524-F3A2F6BB1532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAB82AE-9857-4E85-B524-F3A2F6BB1532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
