@@ -116,7 +116,7 @@
             }
         }
 
-        isWinner(width: number, height: number, minesNumber: number) {
+        public isWinner(width: number, height: number, minesNumber: number) {
             var enabledCounter = 0;
             var btn: any;
 
