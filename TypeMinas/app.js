@@ -90,13 +90,11 @@
             var self = this;
             for (var i = 0; i < this.buttons.length; i++) {
                 document.getElementById(this.buttons[i].id).onclick = function (e) {
-                    var event;
-                    event = e;
-                    var point = event.target.id.split('_');
+                    var point = e.target.id.split('_');
                     var value = self.matrix[parseInt(point[0])][parseInt(point[1])];
 
                     if (self.matrix[parseInt(point[0])][parseInt(point[1])] == -10) {
-                        event.target.value = '*';
+                        e.target.value = '*';
                         alert('You lose!');
                         location.href = location.href;
                     } else {
